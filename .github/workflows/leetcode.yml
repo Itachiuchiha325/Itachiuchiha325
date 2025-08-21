@@ -13,7 +13,7 @@ jobs:
       - name: Update LeetCode Stats
         uses: anishathalye/leetcode-stats@master
         with:
-          username: your-leetcode-username
+          username: Yash_Pandit
       - name: Commit changes
         run: |
           git config --local user.name "github-actions[bot]"
