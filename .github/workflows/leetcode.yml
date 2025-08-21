@@ -2,18 +2,20 @@ name: LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # runs daily
+    - cron: "0 0 * * *" # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
       - name: Update LeetCode Stats
         uses: anishathalye/leetcode-stats@master
         with:
-          username: Yash_Pandit
+          user: Yash_Pandit   # <-- correct input key is "user" not "username"
+
       - name: Commit changes
         run: |
           git config --local user.name "github-actions[bot]"
