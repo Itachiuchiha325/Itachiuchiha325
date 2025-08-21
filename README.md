@@ -11,10 +11,12 @@
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=onedark)
-## 💡 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/Yash_Pandit04?theme=dark&font=Baloo&ext=contest)
-### 🚀 GeeksforGeeks Progress  
-[![GFG Stats](https://gfgstatscard.vercel.app/yashpandit04?theme=dark)](https://auth.geeksforgeeks.org/user/yashpandit04/practice/)
+## 📊 Competitive Coding Progress  
+
+| LeetCode | GeeksforGeeks |
+|----------|---------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Yash_Pandit04?theme=dark&font=Baloo&ext=contest) | [![GFG Stats](https://gfgstatscard.vercel.app/yashpandit04?theme=dark)](https://auth.geeksforgeeks.org/user/yashpandit04/practice/) |
+
 
 
 
