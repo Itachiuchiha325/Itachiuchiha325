@@ -12,10 +12,9 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=onedark)
 
-![snake animation](https://github.com/Itachiuchiha325/Itachiuchiha325/blob/output/snake.svg)
 
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yash-pandit-a48230322)
+
