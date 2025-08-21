@@ -12,7 +12,8 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=onedark)
 ## 💡 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yash_Pandit04?theme=dark&font=Baloo&ext=contest)
+
 
 
 ---
