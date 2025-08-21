@@ -14,7 +14,7 @@ jobs:
       - name: Update LeetCode Stats
         uses: anishathalye/leetcode-stats@master
         with:
-          user: Yash_Pandit04  # <-- correct input key is "user" not "username"
+          username: Yash_Pandit04   # ✅ Correct key + your exact LeetCode username
 
       - name: Commit changes
         run: |
