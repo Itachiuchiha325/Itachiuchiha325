@@ -97,9 +97,7 @@ const yash = {
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Full Stack Web Applications**
-- 🌱 Learning: **Advanced System Design & Microservices**
 - 👯 Looking to collaborate on: **Open Source Java Projects**
-- 🤔 Exploring: **Cloud Technologies & DevOps**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
@@ -111,7 +109,7 @@ const yash = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pandit-a48230322)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itachiuchiha325)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandityash2004@gmail.com)
 
 </div>
 
