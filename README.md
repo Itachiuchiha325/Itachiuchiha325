@@ -2,7 +2,7 @@
 
 🚀 Student @ Bharati Vidyapeeth College of Engineering  
 💻 Passionate about Java, DSA & Full Stack Development  
-🔥 Always pushing limits, David Goggins style  
+🔥 Always pushing limits.
 
 ---
 
@@ -12,8 +12,7 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=onedark)
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Itachiuchiha325/Itachiuchiha325/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Itachiuchiha325/Itachiuchiha325/blob/output/snake.svg)
 
 ---
 
