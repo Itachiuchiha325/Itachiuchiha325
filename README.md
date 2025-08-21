@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Yash Pandit
 
-<!--
-**Itachiuchiha325/Itachiuchiha325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student @ Bharati Vidyapeeth College of Engineering  
+💻 Passionate about Java, DSA & Full Stack Development  
+🔥 Always pushing limits, David Goggins style  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itachiuchiha325&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=onedark)
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Itachiuchiha325/Itachiuchiha325/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://your-portfolio.com)
