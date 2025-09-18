@@ -87,22 +87,16 @@ const yash = {
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Itachiuchiha325&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yash's GitHub stats" />
+### 🚀 **Active Developer & Problem Solver**
 
-</td>
-<td width="50%">
+```
+📈 Consistent Contributions  |  🔥 Multiple Projects
+☕ Java Enthusiast         |  💻 Full Stack Development
+🧠 DSA Problem Solving     |  🌱 Always Learning
+```
 
-<img src="https://streak-stats.demolab.com?user=Itachiuchiha325&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachiuchiha325&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+**Check out my repositories for live projects and code samples!**
 
 </div>
 
@@ -110,12 +104,18 @@ const yash = {
 
 <div align="center">
 
-## 🏆 **Achievements & Trophies** 🏆
+## 🏆 **Skills & Achievements** 🏆
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+🏅 **Java Development** | 🏅 **Full Stack Projects** | 🏅 **DSA Problem Solving**
+
+🏅 **Database Management** | 🏅 **Version Control** | 🏅 **Web Technologies**
+
+**Active contributor with growing expertise in modern development practices**
+
 </div>
 
 ---
@@ -151,12 +151,23 @@ const yash = {
 
 <div align="center">
 
-## 📊 **Contribution Activity** 📊
+## 📊 **Development Activity** 📊
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachiuchiha325&theme=react-dark&hide_border=true" alt="Yash's github activity graph" />
+
+### 🔥 **Coding Journey Highlights**
+
+```
+💻 Regular commits across multiple repositories
+🌐 Full-stack projects with modern technologies  
+☕ Java-focused development with Spring Boot
+🎯 Problem-solving practice on competitive platforms
+```
+
+**Visit my repositories to see the latest projects and contributions!**
+
 </div>
 
 ---
