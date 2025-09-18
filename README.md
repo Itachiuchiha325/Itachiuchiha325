@@ -37,12 +37,6 @@ const yash = {
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
-**🎯 Quick Facts:**
-- 📚 Bharati Vidyapeeth College of Engineering
-- ☕ Java Development Focus
-- 🧠 DSA Enthusiast & Problem Solver
-- 🎲 Can solve a Rubik's cube in under 2 minutes!
-
 </td>
 </tr>
 </table>
