@@ -9,12 +9,13 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+     - name: Update LeetCode Stats
+  uses: anuraghazra/leetcode-stats-card@master
+  with:
+    username: Yash_Pandit04
+    theme: dark
+    show_icons: true
 
-      - name: Update LeetCode Stats
-        uses: joshuali925/leetcode-stats@main
-        with:
-          username: Yash_Pandit04
 
       - name: Commit changes
         run: |
