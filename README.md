@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4aa,50:00a8ff,100:667eea&height=300&section=header&text=Welcome%20To%20My%20Profile&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences%20|%20One%20Line%20At%20A%20Time&descAlignY=51&descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;DSA+Enthusiast+🧩;Problem+Solver+🔥;Always+Learning+📚;Coffee+Lover+☕" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;DSA+Enthusiast+🧩;Problem+Solver+🔥;Always+Learning+📚;" alt="Typing Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
