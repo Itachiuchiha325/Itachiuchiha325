@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4aa,50:00a8ff,100:667eea&height=300&section=header&text=Welcome%20To%20My%20Profile&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences%20|%20One%20Line%20At%20A%20Time&descAlignY=51&descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;DSA+Enthusiast+🧩;Problem+Solver+🔥;Always+Learning+📚;Coffee+Lover+☕" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;DSA+Enthusiast+🧩;Problem+Solver+🔥;Always+Learning+📚;" alt="Typing Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -22,8 +22,6 @@
 
 ```javascript
 const yash = {
-    pronouns: "He" | "Him",
-    location: "Pune, Maharashtra 🇮🇳",
     education: "Bharati Vidyapeeth College of Engineering",
     
     code: ["Java", "JavaScript", "HTML", "CSS"],
@@ -111,26 +109,12 @@ const yash = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachiuchiha325&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-## 📅 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00d4aa/Itachiuchiha325" alt="GitHub Contribution Chart" width="90%" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itachiuchiha325&theme=algolia" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachiuchiha325&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -189,16 +173,6 @@ const yash = {
   <br>
   <i>📫 Reach me at: <b>pandityash2004@gmail.com</b></i>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Watch My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itachiuchiha325/Itachiuchiha325/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itachiuchiha325/Itachiuchiha325/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itachiuchiha325/Itachiuchiha325/output/github-contribution-grid-snake.svg">
-</picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
