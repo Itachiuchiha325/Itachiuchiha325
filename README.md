@@ -22,8 +22,6 @@
 
 ```javascript
 const yash = {
-    pronouns: "He" | "Him",
-    location: "Pune, Maharashtra 🇮🇳",
     education: "Bharati Vidyapeeth College of Engineering",
     
     code: ["Java", "JavaScript", "HTML", "CSS"],
