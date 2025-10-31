@@ -111,10 +111,14 @@ const yash = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachiuchiha325&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-## 📅 Contribution Calendar
+## 📅 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/Itachiuchiha325/Itachiuchiha325/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/00d4aa/Itachiuchiha325" alt="GitHub Contribution Chart" width="90%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itachiuchiha325&theme=algolia" width="90%" />
 </p>
 
 <p align="center">
