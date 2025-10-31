@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4aa,50:00a8ff,100:667eea&height=300&section=header&text=Welcome%20To%20My%20Profile&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences%20|%20One%20Line%20At%20A%20Time&descAlignY=51&descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A9;Problem+Solver+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Coffee+Lover+%E2%98%95" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;DSA+Enthusiast+🧩;Problem+Solver+🔥;Always+Learning+📚;Coffee+Lover+☕" alt="Typing Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif">
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif">
 
 ```javascript
 const yash = {
@@ -111,6 +111,12 @@ const yash = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachiuchiha325&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/Itachiuchiha325/Itachiuchiha325/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Calendar" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachiuchiha325&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
@@ -122,23 +128,6 @@ const yash = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Itachiuchiha325&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Competitive Programming
-
-<div align="center">
-
-| Platform | Profile | Status |
-|----------|---------|--------|
-| 🧡 **LeetCode** | [Yash_Pandit04](https://leetcode.com/Yash_Pandit04/) | Active |
-| 💚 **GeeksforGeeks** | [yashpandit04](https://auth.geeksforgeeks.org/user/yashpandit04/) | Active |
-
-<br>
-
-<img src="https://leetcard.jacoblin.cool/Yash_Pandit04?theme=dark&font=source_code_pro&ext=contest&width=500" alt="LeetCode Stats"/>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
