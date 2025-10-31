@@ -109,20 +109,6 @@ const yash = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachiuchiha325&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-## 📅 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00d4aa/Itachiuchiha325" alt="GitHub Contribution Chart" width="90%" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itachiuchiha325&theme=algolia" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachiuchiha325&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements
